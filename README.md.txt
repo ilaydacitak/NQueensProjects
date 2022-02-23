@@ -1,5 +1,5 @@
 N Queens Problem: “This is the problem of placing N chess queens on an NxN chessboard so that no queens threaten each other;
-Thus, a solution requires that no two queens share the same row, column, or diagonal.”
+Thus, a solution requires that no two queens share the same row, column, or diagonal.”  
 
 In the project, which consists of several stages, first of all, the number of attacks, which is the problem of this problem, was determined. 
 In other phases of the project,
