@@ -14,4 +14,7 @@ In other phases of the project,
 -Random-Restart Hill-Climbing Search
 -Genetic Search 
 by using AI search algorithms, this number of attacks was reset and the speed measurements and result comparisons of the algorithms were made.
+
+///
+
 It was implemented with Python and the SimpleAI library was used.
